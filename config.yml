@@ -1,0 +1,22 @@
+atLeastVotes: 3
+muteTime: 10
+autoCount: false
+prefixVote: '&b&lVote1: '
+prefixError: '&b&lERROR: '
+prefixCurrVotes: '&b&lCurrent votes: '
+currVotes: '&7-Votes-/-atLeastVotes-'
+currVotesBan: '&7Current votes for ban &b&l-player- &7is &b&l-VotesBan- &e(Needed:
+  &c-atLeastVotes-&e)'
+startedVoteBan: '&b&l-player1-&7 has started vote ban for &b&l-player2-'
+votedOff: '&7You have been voted off.'
+banned: '&7You have been banned.'
+alreadyVoted: '&7You have already voted!'
+playerOff: '&7The player is offline!'
+playerHPlayedBef: '&7The player havent played before!'
+noPermission: '&c&lYou dont have permission to do this!'
+reloadPlugin: '&7Config has been saved!'
+voteDay: '&7The time is now day.'
+voteNight: '&7The time is now night.'
+muted: '&9You cant speak because you are muted.'
+voteWeatherSun: '&7Weather is now sun.'
+voteWeatherStorm: '&7Weather is now storm.'
